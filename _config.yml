@@ -12,8 +12,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Blog Resmi KSL UIN Sunan Kalijaga
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ksl-u.in" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: kslkusuka
+github_username:  KSL-Kusuka
 
 # Build settings
 markdown: kramdown
