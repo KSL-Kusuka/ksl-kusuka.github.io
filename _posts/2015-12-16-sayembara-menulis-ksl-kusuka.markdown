@@ -18,18 +18,18 @@ Program ini kami selenggarakan bekerjasama dengan donatur tetap dan tidak tetap 
 
 ### Peraturan Sayembara
 Aturan sayembara KSL Kusuka adalah sebagai berikut:
-1. Peserta sayembara adalah anggota keluarga dari KSL Kusuka.
-2. Aktif dalam mengikuti kegiatan KSL Kusuka.
-3. Menulis dan mendokumentasikan kegiatan KSL Kusuka setelah berkumpul dan belajar bersama di Web/Blog pribadi.
-4. Membagikan tautan (link) di media sosial Twitter atau Facebook dengan membubuhan tagar (hashtag) #sambelXkslkusuka dan mengirimkan surat elektronik (email) berisi tautan ke [sendzation@gmail.com](mailto:sendzation@gmail.com) untuk pengarsipan.
-4. Periode sayembara dimulai setiap minggu ke-1 dan berakhir di minggu terakhir (minggu ke-4 / ke-5 jika ada).
-5. Apresiasi kami berikan pada setiap minggu ke-1 di bulan berikutnya.
-6. Bentuk dan besarnya apresiasi ditentukan oleh donatur.
-7. Penilaian dan penentuan yang berhak mendapat apresiasi ditentukan oleh donatur dan dibantu oleh Pengurus Harian KSL Kusuka.
-8. Kriteria penilaian sayembara menulis adalah sebagai berikut:
-  1. Memiliki tulisan di Web / Blog pribadi minimal 1 tulisan pada periode sayembara.
-  2. Keaktifan menulis dan mendokumentasikan.
-  3. Kualitas tulisan yang baik.
+* Peserta sayembara adalah anggota keluarga dari KSL Kusuka.
+* Aktif dalam mengikuti kegiatan KSL Kusuka.
+* Menulis dan mendokumentasikan kegiatan KSL Kusuka setelah berkumpul dan belajar bersama di Web/Blog pribadi.
+* Membagikan tautan (link) di media sosial Twitter atau Facebook dengan membubuhan tagar (hashtag) #sambelXkslkusuka dan mengirimkan surat elektronik (email) berisi tautan ke [sendzation@gmail.com](mailto:sendzation@gmail.com) untuk pengarsipan.
+* Periode sayembara dimulai setiap minggu ke-1 dan berakhir di minggu terakhir (minggu ke-4 / ke-5 jika ada).
+* Apresiasi kami berikan pada setiap minggu ke-1 di bulan berikutnya.
+* Bentuk dan besarnya apresiasi ditentukan oleh donatur.
+* Penilaian dan penentuan yang berhak mendapat apresiasi ditentukan oleh donatur dan dibantu oleh Pengurus Harian KSL Kusuka.
+* Kriteria penilaian sayembara menulis adalah sebagai berikut:
+  * Memiliki tulisan di Web / Blog pribadi minimal 1 tulisan pada periode sayembara.
+  * Keaktifan menulis dan mendokumentasikan.
+  * Kualitas tulisan yang baik.
 
 ### Daftar Donatur
 1. [Siska Iskandar](https://twitter.com/s3ketika) dari Yayasan [GNOME](http://gnome.org/).
