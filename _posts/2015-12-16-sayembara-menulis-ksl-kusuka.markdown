@@ -18,6 +18,7 @@ Program ini kami selenggarakan bekerjasama dengan donatur tetap dan tidak tetap 
 
 ### Peraturan Sayembara
 Aturan sayembara KSL Kusuka adalah sebagai berikut:
+
 * Peserta sayembara adalah anggota keluarga dari KSL Kusuka.
 * Aktif dalam mengikuti kegiatan KSL Kusuka.
 * Menulis dan mendokumentasikan kegiatan KSL Kusuka setelah berkumpul dan belajar bersama di Web/Blog pribadi.
