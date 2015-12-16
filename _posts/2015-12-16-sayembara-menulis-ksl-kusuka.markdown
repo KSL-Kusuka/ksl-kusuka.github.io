@@ -17,7 +17,7 @@ Maka dari itu, kami menyelenggarakan sayembara menulis untuk keluarga KSL Kusuka
 Program ini kami selenggarakan bekerjasama dengan donatur tetap dan tidak tetap agar bisa memberikan apresiasi kepada siapapun yang giat dalam menulis kegiatan yang diikutinya.
 
 ### Peraturan Sayembara
-Aturan sayembara KSL Kusuka adalah sebagai berikut:
+Aturan sayembara KSL Kusuka adalah sebagai berikut
 
 * Peserta sayembara adalah anggota keluarga dari KSL Kusuka.
 * Aktif dalam mengikuti kegiatan KSL Kusuka.
@@ -27,7 +27,7 @@ Aturan sayembara KSL Kusuka adalah sebagai berikut:
 * Apresiasi kami berikan pada setiap minggu ke-1 di bulan berikutnya.
 * Bentuk dan besarnya apresiasi ditentukan oleh donatur.
 * Penilaian dan penentuan yang berhak mendapat apresiasi ditentukan oleh donatur dan dibantu oleh Pengurus Harian KSL Kusuka.
-* Kriteria penilaian sayembara menulis adalah sebagai berikut:
+* Kriteria penilaian sayembara menulis adalah sebagai berikut
   * Memiliki tulisan di Web / Blog pribadi minimal 1 tulisan pada periode sayembara.
   * Keaktifan menulis dan mendokumentasikan.
   * Kualitas tulisan yang baik.
