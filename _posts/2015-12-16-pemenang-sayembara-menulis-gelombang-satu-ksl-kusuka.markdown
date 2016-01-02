@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pemenang Sayembara Menulis Gelombang 1 KSL Kusuka
-date: 2015-12-16 13:02:20 +0700
+date: 2015-12-16 21:02:20 +0700
 categories: sayembara menulis
 ---
 
