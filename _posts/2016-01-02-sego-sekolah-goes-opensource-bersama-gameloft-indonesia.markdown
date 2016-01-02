@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SEGO, Sekolah Goes OpenSource bersama KSL Kusuka dan PT. Gameloft Indonesia
-date: 2016-01-02 13:45:00 +0700
+date: 2015-01-02 13:45:00 +0700
 categories: kegiatan
 ---
 
@@ -22,9 +22,9 @@ Anggota pendamping:
 3. Agil Mubarok
 
 ##### Foto-foto
-![Pelatihan di SD Negeri Klitren]({{ site.url }}/assets/klitren1.jpg "Pelatihan di SD Negeri Klitren")
+![Pelatihan di SD Negeri Klitren]({{ site.url }}/assets/img/klitren1.jpg "Pelatihan di SD Negeri Klitren")
 
-![Pelatihan di SD Negeri Klitren]({{ site.url }}/assets/klitren2.jpg "Pelatihan di SD Negeri Klitren")
+![Pelatihan di SD Negeri Klitren]({{ site.url }}/assets/img/klitren2.jpg "Pelatihan di SD Negeri Klitren")
 
 #### SD Negeri Demangan
 Anggota pendamping:
@@ -34,8 +34,8 @@ Anggota pendamping:
 4. M. Hudalloh
 
 ##### Foto-foto
-![Pelatihan di SD Negeri Demangan]({{ site.url }}/assets/demangan1.jpg "Pelatihan di SD Negeri Demangan")
+![Pelatihan di SD Negeri Demangan]({{ site.url }}/assets/img/demangan1.jpg "Pelatihan di SD Negeri Demangan")
 
-![Pelatihan di SD Negeri Demangan]({{ site.url }}/assets/demangan2.jpg "Pelatihan di SD Negeri Demgangan")
+![Pelatihan di SD Negeri Demangan]({{ site.url }}/assets/img/demangan2.jpg "Pelatihan di SD Negeri Demgangan")
 
-![Foto bersama Guru SD Negeri Demangan]({{ site.url }}/assets/demangan3.jpg "Foto bersama Guru SD Negeri Demangan")
+![Foto bersama Guru SD Negeri Demangan]({{ site.url }}/assets/img/demangan3.jpg "Foto bersama Guru SD Negeri Demangan")
