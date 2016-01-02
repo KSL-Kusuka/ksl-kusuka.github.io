@@ -41,3 +41,7 @@ Anggota pendamping:
 ![Pelatihan di SD Negeri Demangan]({{ site.url }}/assets/img/demangan2.jpg "Pelatihan di SD Negeri Demgangan")
 
 ![Foto bersama Guru SD Negeri Demangan]({{ site.url }}/assets/img/demangan3.jpg "Foto bersama Guru SD Negeri Demangan")
+
+#### Sertifikat
+Sebagai bukti, kami sebagai 'Trainer' mendapat sertifikat masing-masing satu lembar dari pelaksana utama program CSR
+![Sertifikat]({{ site.url }}/assets/img/sertifikat-dari-gameloft.jpg "Sertifikat")
