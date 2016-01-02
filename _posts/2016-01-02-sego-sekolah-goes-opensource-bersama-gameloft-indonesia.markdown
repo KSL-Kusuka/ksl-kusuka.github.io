@@ -6,7 +6,7 @@ categories: kegiatan
 ---
 
 ### Pendahuluan
-Beberapa waktu lalu, beberapa perwakilan KSL Kusuka bertemu dengan IT Manager PT. Gameloft Indonesia untuk mensukseskan pelaksanaan CSR dari PT. Gameloft Indonesia ke Sekolah Dasar yang ada di Yogyakarta berupa pembagian 10 unit PC (Personal Computer) ke masing-masing Sekolah Dasar.
+Beberapa waktu lalu, beberapa perwakilan KSL Kusuka dan Perempuan Sadar Teknologi (PASTi) bertemu dengan IT Manager PT. Gameloft Indonesia untuk mensukseskan pelaksanaan CSR dari PT. Gameloft Indonesia ke Sekolah Dasar yang ada di Yogyakarta berupa pembagian 10 unit PC (Personal Computer) ke masing-masing Sekolah Dasar.
 
 Dari obrolan-obrolan ringan tersebut, kami menemukan satu kesamaan, bahwa FOSS harus mulai dikenalkan dari pendidikan dasar dan kami sepakat bahwa dalam pelaksanaan CSR ini komunitas akan ikut turun tangan sebagai pendamping dalam fase pengenalan dan pelatihan GNU/Linux dan Perangkat Lunak Bebas Pakai (Free and OpenSource Software).
 
@@ -31,7 +31,7 @@ Anggota pendamping:
 Anggota pendamping:
 
 1. Sendy Aditya Suryana
-2. Siska Iskandar
+2. Siska Iskandar (PASTi)
 3. Nur Rohman
 4. M. Hudalloh
 
