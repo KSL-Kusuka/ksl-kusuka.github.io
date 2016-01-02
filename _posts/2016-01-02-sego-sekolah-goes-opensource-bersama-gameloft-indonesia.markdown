@@ -17,6 +17,7 @@ Materi yang kami bawakan pekan ini adalah panduan singkat instalasi Edubuntu dan
 
 #### SD Negeri Klitren
 Anggota pendamping:
+
 1. M. Husna Mubarok
 2. Raka Adi Nugroho
 3. Agil Mubarok
@@ -28,6 +29,7 @@ Anggota pendamping:
 
 #### SD Negeri Demangan
 Anggota pendamping:
+
 1. Sendy Aditya Suryana
 2. Siska Iskandar
 3. Nur Rohman
