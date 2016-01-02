@@ -26,3 +26,5 @@ Selamat Mbak Tesya, atau biasa dipanggil Tesyant yang seneng banget sama Batman.
 ![Pembagian Hadiah]({{ site.url }}/assets/img/tesyant.jpg "Pembagian Hadiah")
 
 ![Foto Bersama]({{ site.url }}/assets/img/Unknown.jpeg "Foto Bersama")
+
+> Terima kasih kepada seluruh keluarga KSL dan Siska Iskandar sebagai sponsor yang mensukseskan sayembara ini.
