@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SEGO, Sekolah Goes OpenSource bersama KSL Kusuka dan PT. Gameloft Indonesia
+title: SEGO, Sekolah Goes OpenSource bersama KSL Kusuka, PASTi dan PT. Gameloft Indonesia
 date: 2016-01-02 13:45:00 +0700
 categories: kegiatan
 ---
