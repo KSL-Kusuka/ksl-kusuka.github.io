@@ -1,0 +1,24 @@
+---
+layout: post
+title: ﻿nodeMCU, ESP8266 and Lua
+date: 2016-02-25 12:45:00 +0700
+categories: elektronik
+---
+
+
+
+
+nha, ini termasuk open hardware dan pengembangannya sangat wah. harga terjangkau.
+
+
+mungkin bagi sebagian teman-teman yang berkutat dengan elektronika sudah tidak asing. Salah satu mantra wifi chip yang murah meriah dan oprekable. dengan mahar 100ribu, sudah mendapatkan microcontroller+wifi yang bisa disetting untuk akses poin maupun host to host *bisa dicek ditokped atau bukalapak.
+
+
+Pengembangan nodeMCU hampir serupa dengan arduino, tetapi dengan pendekatan bahasa pemrograman lua. Sehingga lebih manusiawi dan mudah dalam pengembangannya. Daripada bahasa bawaan dari ESP8266 yang menggunakan AT-Command.
+
+
+Untuk referensi utama, bisa dikunjungi untuk spek teknis dan nodeMCU untuk pengembangan menggunakan Lua.
+
+
+www.esp8266.com
+http://www.nodemcu.com/docs/index/
