@@ -1,5 +1,9 @@
-﻿Programmer Siomay
-
+---
+layout: post
+title: Programmer Siomay
+date: 2016-02-25 12:45:00 +0700
+categories: curhat
+---
 
 Mungkin judul di atas kurang pas, tetapi judul di atas cukup mewakili untuk hal yang menurut saya di luar kebiasaan. Malam Bantul tidak berputar 24 jam non-stop. Jam 8, 9 kehidupan mulai sunyi, lingkungan senyap dan warga mulai nyenyak dengan tidurnya, warung makan, toko kelontong sudah tutup dan setelah itu anda harus menyediakan mandiri atau stok makanan di rumah untuk menjaga kelaparan di tengah malam.
 
