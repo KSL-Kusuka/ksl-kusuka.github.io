@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Programmer Siomay
-date: 2016-02-25 12:45:00 +0700
+date: 
 categories: curhat
 ---
 
