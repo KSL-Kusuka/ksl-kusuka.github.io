@@ -17,4 +17,5 @@ Pengembangan nodeMCU hampir serupa dengan arduino, tetapi dengan pendekatan baha
 Untuk referensi utama, bisa dikunjungi untuk spek teknis dan nodeMCU untuk pengembangan menggunakan Lua.
 
 www.esp8266.com <br>
-http://www.nodemcu.com/docs/index/
+http://www.nodemcu.com/docs/index/ <br>
+https://nodemcu.readthedocs.org/en/dev/
