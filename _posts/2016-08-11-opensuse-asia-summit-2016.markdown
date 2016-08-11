@@ -1,7 +1,7 @@
 ---
 layout: post
 title: openSUSE Asia Summit 2016
-date: 2016-08-11 12:09:00 +0700
+date: 2016-08-11 12:25:00 +0700
 categories: kegiatan, event
 author: Sendy
 ---
