@@ -11,6 +11,7 @@ Sudah lama tidak memberi kabar di portal KSL UIN Sunan Kalijaga karena beberapa 
 Bagi yang berminat untuk ikut berpartisipasi dalam acara ini, silakan untuk mengakses [s.id/aS16](http://s.id/aS16).
 
 ![Registrasi openSUSE Asia Summit 2016]({{ site.url }}/assets/img/registrasi-2-1-1024x512.png)
+
 > Pendaftaran ditutup pada 26 September 2016
 
 #### Pelaksanaan
@@ -30,7 +31,8 @@ Bagi yang berminat untuk ikut berpartisipasi dalam acara ini, silakan untuk meng
 * Lunch and Snack
 
 #### Pembayaran
-Rekening BCA
-Nomor 445 088 9143
-Atas Nama Yan Arief Purwanto
+* Rekening BCA
+* Nomor 445 088 9143
+* Atas Nama Yan Arief Purwanto
+
 > Kirimkan email konfirmasi keikutsertaan dengan melampirkan bukti transaksi ke alamat email : [yan@yanrf.com](mailto:yan@yanrf.com)
